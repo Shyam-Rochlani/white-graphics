@@ -1,0 +1,1 @@
+we have floated icon in services section but we have not applied clearfix  to it as
